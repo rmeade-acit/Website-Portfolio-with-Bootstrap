@@ -28,7 +28,8 @@
 >    - Add copyright information.
 >7. New Bootstrap Component
 >    - Apply at least one Bootstrap component that we did not learn in class.
-
+>8. Wireframe Screenshots
+>    - Turn in screen shots or photos from your phone of your wireframing
 
 > [!TIP]
 **Guidelines**
