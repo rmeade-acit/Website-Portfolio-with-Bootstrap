@@ -31,11 +31,12 @@
 >8. Wireframe Screenshots
 >    - Turn in screen shots or photos from your phone of your wireframing
 
+
 > [!TIP]
 **Guidelines**
 >- Use a responsive design that works well on desktops, tablets, and phones.
 >- Use consistent color schemes and typography.
->- Include at least one custom CSS style to personalize the design.
+>- **<ins>Comment Your Code</ins>**
 
 
 >**Submission** :trophy:
