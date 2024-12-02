@@ -6,7 +6,7 @@
 
 > [!IMPORTANT]
 >**Requirements**
->Your portfolio must include the following sections:
+>- Your portfolio must include the following sections:
 >1. Header
 >    - A navigation bar with links to all sections of the portfolio.
 >    - Your name and/or a logo.
@@ -40,5 +40,5 @@
 
 
 >**Submission** :trophy:
->- Submit your project folder in **_github_** :octocat: by Friday, 12/06/2024.
+>- Submit your project folder in **_github_** :octocat: by Friday, 12/13/2024.
 >- Ensure your code is well-organized and commented.
